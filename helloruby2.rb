@@ -88,4 +88,23 @@ end
 
 # 1.13
 puts "\n1.13"
+i = 1
+while i <= 10
+    print i, "\n"
+    i = i + 1
+end
+
+100.times do
+    print "ALL work and no play makes Jack a dull boy.\n"
+end
+
+# 1.14
+puts "\n1.14"
+
+def hello
+    print "Hello, Ruby.\n"
+end
+
+hello()
+
 
