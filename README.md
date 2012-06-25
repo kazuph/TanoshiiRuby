@@ -4,4 +4,5 @@ TanoshiiRuby
 
 進捗
 -----------
- * 第１章　DONE！
+ * 第1章　DONE！
+ * 第2章　DONE！
