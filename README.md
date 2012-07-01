@@ -6,3 +6,4 @@ TanoshiiRuby
 -----------
  * 第1章　DONE！
  * 第2章　DONE！
+ * 第3章　DONE！
