@@ -9,3 +9,17 @@ p w =  %w(hoge fuga Hoge gege gefu)
 p w.grep(/.*ge.*/)
 p w.grep(/^ge/)
 p w
+
+p a = [1, 2, 3, 4, 5]
+p a.fill(0)
+p a = [1, 2, 3, 4, 5]
+p a.fill(0, 2)
+p a = [1, 2, 3, 4, 5]
+p a.fill(0, 2, 2)
+
+
+p a = [1, [2, [3]], 4, 5]
+p a.flatten
+p a = [1, 2, 3, 4, 5]
+p a.reverse
+p a.reverse.sort
