@@ -1,0 +1,2 @@
+Output to $stdout.
+Output to $stdout.

@@ -1,0 +1,1 @@
+File.delete("copppppyyyyyyyyyyyy.rb")
